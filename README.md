@@ -5,6 +5,6 @@
 
 -> I have used Repl.it to host this app.
 
--> User can just go to the link provided below and play the Quiz.
+-> User can just go to the link provided below and play the Quiz. Desktop/Laptop is preferred.
 
 -> Link : https://replit.com/@NagasandeshN/Quiz-App#index.js
