@@ -1,5 +1,5 @@
 # QuizApp 
--> This is a basic Quiz app which is made purely using JS.
+-> This is a basic Quiz app which is made purely using Node.js
 
 -> It is a multiLevel Quiz and the questions are related to Current Affairs.
 
